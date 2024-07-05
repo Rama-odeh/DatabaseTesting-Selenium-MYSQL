@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T17:18:57 EEST" name="Default suite" finished-at="2024-07-05T17:19:02 EEST" duration-ms="5058">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T17:18:57 EEST" name="Default test" finished-at="2024-07-05T17:19:02 EEST" duration-ms="5058">
+      <class name="dataBseTesting.myTestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:dataBseTesting.myTestCases@33352f32]" started-at="2024-07-05T17:18:57 EEST" name="Setup" finished-at="2024-07-05T17:18:58 EEST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="addData()[pri:1, instance:dataBseTesting.myTestCases@33352f32]" started-at="2024-07-05T17:18:58 EEST" name="addData" finished-at="2024-07-05T17:18:58 EEST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addData -->
+        <test-method signature="updateData()[pri:2, instance:dataBseTesting.myTestCases@33352f32]" started-at="2024-07-05T17:18:58 EEST" name="updateData" finished-at="2024-07-05T17:18:58 EEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateData -->
+        <test-method signature="getData()[pri:3, instance:dataBseTesting.myTestCases@33352f32]" started-at="2024-07-05T17:18:58 EEST" name="getData" finished-at="2024-07-05T17:19:02 EEST" duration-ms="3872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="deleteData()[pri:4, instance:dataBseTesting.myTestCases@33352f32]" started-at="2024-07-05T17:19:02 EEST" name="deleteData" finished-at="2024-07-05T17:19:02 EEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+      </class> <!-- dataBseTesting.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
